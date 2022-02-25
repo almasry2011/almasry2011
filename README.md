@@ -3,15 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almasry2011&label=Profile%20views&color=0e75b6&style=flat" alt="almasry2011" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=almasry2011" alt="almasry2011" /></a> </p>
+ 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/almasry2011?tab=repositories](https://github.com/almasry2011?tab=repositories)
-
-- 📫 How to reach me **almasry201174@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+ 
 <p align="left">
 </p>
 
@@ -23,3 +18,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=almasry2011&show_icons=true&locale=en" alt="almasry2011" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=almasry2011&" alt="almasry2011" /></p>
+
+
+
+### <📫> How to reach me </📫>
+
+[![Github badge](https://img.shields.io/badge/almasry2011-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/almasry2011) [![Pinterest badge](https://img.shields.io/badge/almasry201174@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:almasry201174@gmail.com)
+
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
+
+
+
