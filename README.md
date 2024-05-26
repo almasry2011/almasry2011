@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amr Mohamed</h1>
-<h3 align="center">Full-Stack .NET Developer (.Net - Angular) from Egypt</h3>
+<h3 align="center">Full-Stack .NET Developer (.Net - Angular) </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almasry2011&label=Profile%20views&color=0e75b6&style=flat" alt="almasry2011" /> </p>
 
